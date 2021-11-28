@@ -21,6 +21,10 @@ In your command line:
 - To start the server & run the app
     ```
     node server.js
+
+
 ## Screenshot
 ![Screenshot](assets/screenshot.png)
 
+## Demo Video
+https://drive.google.com/file/d/1pP55NSGYHXfE8AmiZ1gzUUgwnhTNA6Vl/view?usp=sharing
