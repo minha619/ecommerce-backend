@@ -18,11 +18,9 @@ In your command line:
     SOURCE schema.sql
 
     npm run seed
-
 - To start the server & run the app
     ```
     node server.js
-
 ## Screenshot
 ![Screenshot](assets/screenshot.png)
 
