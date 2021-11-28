@@ -12,14 +12,16 @@ The back end for an e-commerce site that takes a working Express.js API and conf
 ## Usage
 In your command line:
 - For database connection 
-    > mysql -u root -p
+    ```
+    mysql -u root -p
 
-    > SOURCE schema.sql
+    SOURCE schema.sql
 
-    > npm run seed
+    npm run seed
 
 - To start the server & run the app
-    > node server.js
+    ```
+    node server.js
 
 ## Screenshot
 ![Screenshot](assets/screenshot.png)
