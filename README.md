@@ -21,8 +21,6 @@ In your command line:
 - To start the server & run the app
     ```
     node server.js
-
-
 ## Screenshot
 ![Screenshot](assets/screenshot.png)
 
